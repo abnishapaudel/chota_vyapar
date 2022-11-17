@@ -7,11 +7,11 @@
     An e-commerce website for developing small businesses to sell their products made by the team <b> RussianFoosballMafia </b> for <b> CSE3002 - Internet and Web Programming's </b> J component project.
     <br />
     <br />
-    <a href="https://github.com/abnishapaudel/chota-vyapar">Browse Code</a>
+    <a href="https://github.com/abnishapaudel/chota_vyapar">Browse Code</a>
     ·
-    <a href="https://github.com/abnishapaudel/chota-vyapar/issues">Report Bug</a>
+    <a href="https://github.com/abnishapaudel/chota_vyapar/issues">Report Bug</a>
     ·
-    <a href="https://github.com/abnishapaudel/chota-vyapar/issues">Request Feature</a>
+    <a href="https://github.com/abnishapaudel/chota_vyapar/issues">Request Feature</a>
   </p>
 </p>
 
@@ -55,7 +55,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 1. Clone this repo in the path: XAMPP/xamppfiles/htdocs.
-    > `git clone https://github.com/abnishapaudel/chota-vyapar.git`
+    > `git clone https://github.com/abnishapaudel/chota_vyapar.git`
 
 2. In XAMPP Manager, click Manage Servers and make sure `MySQL Database` and `Apache Web Server` is in running status.
 
@@ -63,7 +63,7 @@ To get a local copy up and running follow these simple steps.
     > `cd htdocs`
 
 4. Open browser and open the following file:
-    > `localhost/chota-vyapar/frontend/home.html`
+    > `localhost/chota_vyapar/frontend/home.html`
 
 ## <b> Usage </b>
 ***
